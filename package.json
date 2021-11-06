@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ankitupadhyay889.github.io/todolist",
   "name": "todo",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "bootstrap": "^4.6.0",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "json-server": "^0.16.3",
     "react": "^16.13.1",
     "react-bootstrap": "^1.5.2",
